@@ -1,1 +1,1 @@
-# qa-test-strategy-examples
+# Test Stategy Examples
