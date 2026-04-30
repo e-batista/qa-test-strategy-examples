@@ -242,7 +242,7 @@ Because it is based on:
 
 
 
-###🚀 Summary
+### 🚀 Summary
 
 My testing strategy combines:
 
