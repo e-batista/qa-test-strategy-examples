@@ -242,19 +242,21 @@ Because it is based on:
 
 
 
-🚀 Summary
+###🚀 Summary
 
 My testing strategy combines:
 
-✅ Structured Testing
-✅ Exploratory Thinking
-✅ Smart Regression
-✅ Clear Bug Reporting
-✅ Release Ownership
-✅ Team Visibility
-✅ Product Focus
-✅ Continuous Improvement
+- ✅ Structured Testing
+- ✅ Exploratory Thinking
+- ✅ Smart Regression
+- ✅ Clear Bug Reporting
+- ✅ Release Ownership
+- ✅ Team Visibility
+- ✅ Product Focus
+- ✅ Continuous Improvement
 
-Final Belief
+
+
+### Final Belief
 
 Great QA is not only about finding bugs. It is about helping teams ship better products with confidence.
